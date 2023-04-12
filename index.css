@@ -1,0 +1,70 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Lato", sans-serif
+}
+
+.w3-bar,
+h1,
+button {
+    font-family: "Montserrat", sans-serif
+}
+
+.fa-anchor,
+.fa-coffee {
+    font-size: 200px
+}
+
+.w3-degrade {
+    background: -webkit-linear-gradient(left, #00d39f 0%, #008bd3 25%, #d40063 75%, #d4be00 100%);
+    background: -o-linear-gradient(left, #00d39f 0%, #008bd3 25%, #d40063 75%, #d4be00 100%);
+    background: -moz-linear-gradient(left, #00d39f 0%, #008bd3 25%, #d40063 75%, #d4be00 100%);
+    background: linear-gradient(to right, #00d39f 0%, #008bd3 25%, #d40063 75%, #d4be00 100%);
+}
+
+.w3-background {
+    background-image: url(assets/sala-verde.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    color: #fff !important;
+}
+
+.w3-quote {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background: url(assets/back-quote.jpg) no-repeat;
+}
+
+.w3-spaces {
+    padding: 128px 16px;
+}
+
+.w3-right-space {
+    padding-right: 128px;
+}
+
+.w3-w50 {
+    width: 50px;
+}
+
+.w3-quotation {
+    font-size: 150px;
+    float: left;
+    line-height: 0.6em;
+    opacity: 0.2;
+}
+
+.w3-boxer {
+    width: 60%;
+}
+
+.w3-rounded {
+    border-radius: 25px;
+}
